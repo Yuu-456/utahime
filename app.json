@@ -97,7 +97,7 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": " "
+         "value": ""
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
@@ -194,5 +194,3 @@
       
    }
 } 
-
-    
