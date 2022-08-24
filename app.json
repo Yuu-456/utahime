@@ -180,12 +180,12 @@
        "APP_ID": {
          "description": "API ID of 2nd telegram account if you dont have two accounts then use the same accounts API ID, but i recommend using 2nd accounts API ID",
          "required": false,
-         "value": ""
+         "value": "10509884"
       }, 
       "APP_HASH": {
          "description": " API HASH of 2nd telegram account if you dont two accounts then use the same accounts API HASH, but i recommend using 2nd accounts API HASH.",
          "required": false,
-         "value": ""
+         "value": "0d3030296c64aee599c5e3268020d4de"
        }, 
        "STRING_SESSION": {
          "description": "Telethon String Session, create it from https://repl.it/@SpEcHiDe/GenerateStringSession .",
